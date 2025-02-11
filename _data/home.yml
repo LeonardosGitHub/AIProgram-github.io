@@ -3,15 +3,15 @@ navbar_entries:
     url: https://www.cscc.edu/
 
   - title: LinkedIn
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/leonardo-simon-97622a15/
 
   - title: GitHub
-    url: https://github.com/
+    url: https://github.com/LeonardosGitHub
 
 project_entries:
-  - title: Template 1
-    url: template-1-post
-    desc: This is an example project, template 1
+  - title: AI and Emerging Technologies
+    url: Week-1-post
+    desc: AI and Emerging Technologies - Week 1
 
   - title: Template 2
     url: template-2-post
