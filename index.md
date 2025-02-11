@@ -1,4 +1,4 @@
 # AI Research, Learnings, and Thoughts
 
 ## Goals
-- Begin to understand AI and Emerging Technologies
+- Start my journey to understand AI and related technologies
