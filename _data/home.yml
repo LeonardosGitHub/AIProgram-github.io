@@ -13,6 +13,18 @@ project_entries:
     url: week-1-post
     desc: Week 1
 
+  - title: TBD week 2
+    url: week-2-post
+    desc: Week 2
+  
+  - title: TBD week 3
+    url: week-3-post
+    desc: Week 3
+  
+  - title: TBD week 4
+    url: week-4-post
+    desc: Week 4
+
 <!--- 
   - title: Template 2
     url: template-2-post
