@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Leonardo Simon
+author: Leonardo
 tags: [cscc]
 ---
 
