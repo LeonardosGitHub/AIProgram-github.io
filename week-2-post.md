@@ -8,19 +8,19 @@ tags: [cscc]
 
 1. Explain AT LEAST TWO of the seven steps of Machine Learning as you would explain to a friend that knows nothing about Machine Learning.
 
-- The seven steps of Machine learning are as follows:
-    - Gathering Data 
-    - Preparing the data
-    - Choosing the model
-    - Training
-    - Evaluation
-    - Hyperparameter Tuning
-    - Prediction
-    
-- I'll focus on both (1) Gathering data and (2) Preparing the data because I think these are two very important steps to get right.  Machine learning(ML) fundamentally is about learning about data and creating mathematical model about that data.  If your data is not representative of the desired outcomes of the ML then you're not going to get the results you're expecting.  I would argue there's a step before gathering data which is understanding what outcome you'd like the ML to produce.  Do you want the ML to understand how to win at chess, win at checkers, identify a famous piece of art, or play tic-tak-toe?  
-    - Gathering data: Once you understand above, then you can gather data to support the outcome you desire. The data will consist of information that the ML will use to train itself; for example, if you want your ML to understand checkers you'll need the data to include the chessboard, the colors of the pieces, the allowed moves of each piece, the goal of the game, and much more.  
-    - Preparing the data - once you have the data above you have to prepare the data to teach the ML.  For example, you may have a picture of a red checkers piece, you pair the picture to the description of the picture so the ML understand what that is. This will allow the ML to view a chessboard and pick out the red checkers. In preparing the data you'll also want to model what a checkers "move" consists of, moving a black or red piece towards the opposing side in a diagonal direction.  
-    As you can see the data is just information about the game, but preparing the data is where you can inform the ML what to do with that data and how to interpret it. 
+    - The seven steps of Machine learning are as follows:
+        - Gathering Data 
+        - Preparing the data
+        - Choosing the model
+        - Training
+        - Evaluation
+        - Hyperparameter Tuning
+        - Prediction
+        
+    - I'll focus on both (1) Gathering data and (2) Preparing the data because I think these are two very important steps to get right.  Machine learning(ML) fundamentally is about learning about data and creating mathematical model about that data.  If your data is not representative of the desired outcomes of the ML then you're not going to get the results you're expecting.  I would argue there's a step before gathering data which is understanding what outcome you'd like the ML to produce.  Do you want the ML to understand how to win at chess, win at checkers, identify a famous piece of art, or play tic-tak-toe?  
+        - Gathering data: Once you understand above, then you can gather data to support the outcome you desire. The data will consist of information that the ML will use to train itself; for example, if you want your ML to understand checkers you'll need the data to include the chessboard, the colors of the pieces, the allowed moves of each piece, the goal of the game, and much more.  
+        - Preparing the data - once you have the data above you have to prepare the data to teach the ML.  For example, you may have a picture of a red checkers piece, you pair the picture to the description of the picture so the ML understand what that is. This will allow the ML to view a chessboard and pick out the red checkers. In preparing the data you'll also want to model what a checkers "move" consists of, moving a black or red piece towards the opposing side in a diagonal direction.  
+        As you can see the data is just information about the game, but preparing the data is where you can inform the ML what to do with that data and how to interpret it. 
 
 2. What application of Machine Learning did you discover while researching?
     - I think a popular ML application are support chat bots on consumer webpages. 
