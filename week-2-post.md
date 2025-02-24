@@ -4,8 +4,6 @@ author: Leonardo
 tags: [cscc]
 ---
 
-## Week 2
-
 ### [Machine Learning Research]
 
 1. Explain AT LEAST TWO of the seven steps of Machine Learning as you would explain to a friend that knows nothing about Machine Learning.

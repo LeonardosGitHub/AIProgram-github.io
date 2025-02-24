@@ -4,8 +4,6 @@ author: Leonardo
 tags: [cscc]
 ---
 
-## Week 1
-
 ### [AI and Emerging Technologies]
 
 - What previous solutions were being used in place of AI? How has AI replaced or will soon replace these solutions?
