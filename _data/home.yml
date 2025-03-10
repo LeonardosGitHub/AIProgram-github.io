@@ -25,6 +25,14 @@ project_entries:
     url: week-4-post
     desc: Week 4
   
+  - title: TBD week 5
+    url: week-5-post
+    desc: Week 5
+
+  - title: TBD week 6
+    url: week-6-post
+    desc: Week 6
+
   - title: Template 2
     url: template-2-post
     desc: This is an example project, template 2
