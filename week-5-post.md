@@ -35,7 +35,7 @@ tags: [cscc]
             - "see" – 477 times
             - "well" – 409 times
         - Let me know if you need further analysis! ​
-    - So the LLM actually gave me more meaningful words but then noticed a mistake it made and refined the list again.  I asked the LLM what it meant by "reviously miscounted as "t", filtering fixed" because I wondered why it refined it's own list and this was the response:
+    - So the LLM actually gave me more meaningful words but then noticed a mistake it made and refined the list again.  I asked the LLM what it meant by "previously miscounted as "t", filtering fixed" because I wondered why it refined it's own list and this was the response:
         - Great question! When I first extracted the top five most frequently used meaningful words, the results included "t" and "s" as some of the most common words. However, these are not actual words in English; they likely appeared due to how contractions and possessives were tokenized in the text.
         For example, in Adventures of Huckleberry Finn, contractions like:
             "can't" → might have been split into "can" and "t"
