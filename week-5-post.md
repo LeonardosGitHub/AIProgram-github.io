@@ -42,7 +42,7 @@ tags: [cscc]
             "it's" → might have been split into "it" and "s"
         This happens because when breaking down the text, apostrophes in contractions can cause issues where the trailing parts (like "t" from "can't") are treated as standalone words. Similarly, possessives like "Huck’s" might cause "s" to appear frequently.
 
-        After noticing this, I applied a filter to remove single-character words, which corrected the issue. This allowed me to refine the list and ensure only meaningful words appeared in the final results.
+            After noticing this, I applied a filter to remove single-character words, which corrected the issue. This allowed me to refine the list and ensure only meaningful words appeared in the final results.
 
-        Let me know if you’d like a deeper dive into the text processing methods!
+            Let me know if you’d like a deeper dive into the text processing methods!
     - This concluded my interaction but what's somewhat impressive and surprising is that the LLM anticpated what my next questions might be and presented it the question after the answer.  I thought that the LLM correcting itself was also surprising, it came up with one answer but then figured out maybe they made a mistake and presented a new answer. Not all all what I expected to happen. 
